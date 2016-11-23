@@ -11,7 +11,7 @@ npm install @umesan/stylelint-config-standard-ja --save-dev
 ## Usage
 Create `.stylelintrc` and describe your settings.
 
-* simple *
+**simple**
 ```
 {
   "extends": "@umesan/stylelint-config-standard-ja",
@@ -23,7 +23,7 @@ Create `.stylelintrc` and describe your settings.
 }
 ```
 
-* overwrite stylelint-config-standard *
+**overwrite stylelint-config-standard**
 ```
 {
   "extends": [
@@ -39,6 +39,6 @@ Create `.stylelintrc` and describe your settings.
 ```
 
 ## Reference URL
-http://stylelint.io/user-guide/rules/
-https://github.com/stylelint/stylelint-config-standard
+http://stylelint.io/user-guide/rules/  
+https://github.com/stylelint/stylelint-config-standard  
 http://qiita.com/makotot/items/c266ed11ada1423cb96e
