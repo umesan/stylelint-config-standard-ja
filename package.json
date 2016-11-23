@@ -1,6 +1,6 @@
 {
   "name": "@umesan/stylelint-config-standard-ja",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "stylelint-config-standard into Japanese for @umesan",
   "keywords": [
     "stylelint",
@@ -14,7 +14,7 @@
     "url": "https://github.com/umesan/stylelint-config-standard-ja.git"
   },
   "main": "index.js",
-  "devDependencies": {
+  "dependencies": {
     "stylelint-config-standard": "^14.0.0"
   }
 }
