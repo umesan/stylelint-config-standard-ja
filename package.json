@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-umesan",
+  "name": "@umesan/stylelint-config-standard-ja",
   "version": "0.1.0",
   "description": "stylelint-config-standard into Japanese for @umesan",
   "keywords": [
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umesan/stylelint-config-umesan.git"
+    "url": "https://github.com/umesan/stylelint-config-standard-ja.git"
   },
   "main": "index.js",
   "devDependencies": {

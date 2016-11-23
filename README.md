@@ -1,20 +1,20 @@
-# stylelint-config-umesan
+# stylelint-config-standard-ja
 [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard) into Japanese for me.
 
 
 ## Installation
 
 ```
-npm install stylelint-config-umesan --save-dev
+npm install @umesan/stylelint-config-standard-ja --save-dev
 ```
 
 ## Usage
 Create `.stylelintrc` and describe your settings.
 
-**simple**
+* simple *
 ```
 {
-  "extends": "stylelint-config-umesan",
+  "extends": "@umesan/stylelint-config-standard-ja",
   "rules": {
 
     Please overwrite with the rules of your project.
@@ -23,12 +23,12 @@ Create `.stylelintrc` and describe your settings.
 }
 ```
 
-**overwrite stylelint-config-standard**
+* overwrite stylelint-config-standard *
 ```
 {
   "extends": [
     "stylelint-config-standard",
-    "stylelint-config-umesan"
+    ""@umesan/stylelint-config-standard-ja"
   ],
   "rules": {
 
@@ -39,6 +39,6 @@ Create `.stylelintrc` and describe your settings.
 ```
 
 ## Reference URL
-http://stylelint.io/user-guide/rules/  
-https://github.com/stylelint/stylelint-config-standard  
+http://stylelint.io/user-guide/rules/
+https://github.com/stylelint/stylelint-config-standard
 http://qiita.com/makotot/items/c266ed11ada1423cb96e
